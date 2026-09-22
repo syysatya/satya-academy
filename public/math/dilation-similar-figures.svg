@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+<rect width="1000" height="600" fill="white"/>
+<text x="500" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="#111">Dilation Creates a Similar Figure</text>
+<line x1="120" y1="500" x2="880" y2="500" stroke="#777" stroke-width="2"/>
+<line x1="120" y1="500" x2="120" y2="90" stroke="#777" stroke-width="2"/>
+<polygon points="230,430 350,430 230,310" fill="none" stroke="#2563eb" stroke-width="7"/>
+<text x="250" y="475" font-family="Arial,sans-serif" font-size="24" fill="#2563eb">Pre-image</text>
+<text x="250" y="525" font-family="Arial,sans-serif" font-size="21" fill="#333">side lengths: 3, 4, 5</text>
+<line x1="120" y1="500" x2="230" y2="430" stroke="#999" stroke-width="2" stroke-dasharray="7 7"/>
+<line x1="120" y1="500" x2="350" y2="430" stroke="#999" stroke-width="2" stroke-dasharray="7 7"/>
+<line x1="120" y1="500" x2="230" y2="310" stroke="#999" stroke-width="2" stroke-dasharray="7 7"/>
+<polygon points="440,300 680,300 440,60" fill="none" stroke="#dc2626" stroke-width="8"/>
+<text x="555" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#dc2626">Image</text>
+<text x="560" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#333">side lengths: 6, 8, 10</text>
+<line x1="230" y1="430" x2="440" y2="300" stroke="#111" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="350" y="235" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#111">scale factor k = 2</text>
+<text x="500" y="555" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#111">Same shape • Corresponding angles stay equal • Corresponding sides are proportional</text>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+</svg>
